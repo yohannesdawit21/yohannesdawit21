@@ -14,10 +14,11 @@ jobs:
         with:
           github_user_name: yohannesdawit21
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: dist
+          build_dir: output
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
