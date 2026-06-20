@@ -17,10 +17,16 @@ jobs:
         with:
           github_user_name: yohannesdawit21
           outputs: |
-            output/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: output
-        env:
-          GH_PAT: ${{ github.token }}
+          message: "Update snake"
+          add: "dist"
+
+      - name: Deploy snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
