@@ -99,8 +99,7 @@ A platform that connects skills with opportunities and learning resources.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesdawit21&layout=compact&theme=tokyonight)
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/gh-pages/github-contribution-grid-snake.svg)
 ---
 
 ## 🌐 Connect With Me
