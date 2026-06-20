@@ -100,6 +100,8 @@ A platform that connects skills with opportunities and learning resources.
 ## 🐍 Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/gh-pages/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=Yohannes%20Dawit&fontColor=ffffff&fontSize=40"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannesdawit21&show_icons=true&theme=chartreuse-dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=yohannesdawit21&theme=dark&ring=00ff00&fire=00ff00)
 
 
