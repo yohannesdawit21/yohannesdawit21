@@ -56,11 +56,10 @@
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ## 🏴‍☠️ TryHackMe
-<a href="https://tryhackme.com/p/zexd">
-<img src="https://tryhackme-badges.s3.amazonaws.com/zexd.png" alt="TryHackMe Badge">
-
-</a>
-
+<p align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/zexd.png" width="350">
+</p>
+<h3 align="center">🟢 TryHackMe | Cyber Security Journey</h3>
 
 
 
