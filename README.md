@@ -57,9 +57,12 @@
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ## 🏴‍☠️ TryHackMe
 <p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/zexd.png" width="350">
+  <a href="https://tryhackme.com/p/zexd">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/zexd.png" 
+         alt="TryHackMe Profile" 
+         width="350">
+  </a>
 </p>
-<h3 align="center">🟢 TryHackMe | Cyber Security Journey</h3>
 
 
 
@@ -99,9 +102,7 @@ A platform that connects skills with opportunities and learning resources.
 ## 🐍 Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/gh-pages/github-contribution-grid-snake.svg)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header&text=Yohannes%20Dawit&fontColor=ffffff&fontSize=40"/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannesdawit21&show_icons=true&theme=chartreuse-dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=yohannesdawit21&theme=dark&ring=00ff00&fire=00ff00)
+
 
 
 ## 🌐 Connect With Me
