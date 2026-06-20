@@ -1,7 +1,12 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yohannes%20Dawit&fontSize=50&fontColor=ffffff" />
 # Hi there, I'm Yohannes Dawit 👋
-# Creative and Problem Solver 
+<h3 align="center">
+💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Secure+Applications;Learning+Cybersecurity;Exploring+AI+%26+LLMs;Solving+Real+World+Problems" />
+</p>
 
 💻 3rd Year Information System Student at Haramaya University  
 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | 🌐 Full-Stack Developer  
@@ -37,6 +42,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## 🔐 Cybersecurity Tools
 
@@ -47,6 +56,12 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+## 🏴‍☠️ TryHackMe
+<a href="https://tryhackme.com/p/zexd">
+<img src="https://tryhackme-badges.s3.amazonaws.com/zexd.png" alt="TryHackMe Badge">
+
+</a>
+
 
 
 
@@ -73,7 +88,7 @@ Intelligent library management system using AI-powered features.
 ## 🏅 Achievements
 
 - 🏆 Participated in multiple Hackathons
-- 🎖️ Active CTF Player
+- 🎖️ CTF Participant & Security Research Learner
 - 📖 Continuously learning Cybersecurity and AI
 - 🌍 Building projects that solve real-world problems
 
@@ -84,6 +99,12 @@ Intelligent library management system using AI-powered features.
 ![Yohannes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yohannesdawit21&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesdawit21&layout=compact&theme=tokyonight)
+## 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=yohannesdawit21&color=blue)
+
+
 
 ---
 
