@@ -1,6 +1,6 @@
 
 # Hi there, I'm Yohannes Dawit 👋
-# creative and Problem Solver 
+# Creative and Problem Solver 
 
 
 💻 3rd Year Information System Student at Haramaya University  
