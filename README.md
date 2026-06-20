@@ -100,6 +100,8 @@ A platform that connects skills with opportunities and learning resources.
 ## 🐍 Contribution Snake
 
 ![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/gh-pages/github-contribution-grid-snake.svg)
+![GitHub Streak](https://streak-stats.demolab.com?user=yohannesdawit21&theme=dark&ring=00ff00&fire=00ff00)
+
 
 ## 🌐 Connect With Me
 
