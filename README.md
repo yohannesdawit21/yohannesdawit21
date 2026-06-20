@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Yohannes%20Dawit&fontSize=50&fontColor=ffffff" />
-# Hi there, I'm Yohannes Dawit 👋
-<h3 align="center">
+<h3 alig AI Explorern="center">
 💻 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer
 </h3>
 
