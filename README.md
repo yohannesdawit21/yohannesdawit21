@@ -79,8 +79,7 @@ AI-powered career assistant helping users discover opportunities and improve car
 ### 🎯 SkillMatch
 A platform that connects skills with opportunities and learning resources.
 
-### 📚 AI-Based Digital Library
-Intelligent library management system using AI-powered features.
+
 
 ---
 
@@ -100,9 +99,7 @@ Intelligent library management system using AI-powered features.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yohannesdawit21&layout=compact&theme=tokyonight)
 ## 🐍 Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/yohannesdawit21/yohannesdawit21/output/github-contribution-grid-snake.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=yohannesdawit21&color=blue)
-
+![snake animation](https://raw.githubusercontent.com/yhannesdawit21/yhannesdawit21/output/github-contribution-grid-snake.svg)
 
 
 ---
