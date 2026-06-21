@@ -108,7 +108,7 @@ A platform that connects skills with opportunities and learning resources.
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yohannes-dawit-b13599305
-- 🌍 Portfolio: https://yohannes-gilt.vercel.app
+- 🌍 Portfolio: https://yohannes-dawit.vercel.app/
 - 📧 Email: yohannes2557@gmail.com
 
 ---
