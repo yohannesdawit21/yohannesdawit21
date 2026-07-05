@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Secure+Applications;Learning+Cybersecurity;Exploring+AI+%26+LLMs;Solving+Real+World+Problems" />
 </p>
 
-💻 3rd Year Information System Student at Haramaya University  
+💻 Information System Student at Haramaya University  
 🔐 Cybersecurity Enthusiast | 🤖 AI Explorer | 🌐 Full-Stack Developer  
 🚀 Passionate about building impactful software and solving real-world problems
 
